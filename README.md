@@ -1,1 +1,1 @@
-Proyect made for https://roadmap.sh/projects/github-user-activity
+Project made for https://roadmap.sh/projects/github-user-activity
