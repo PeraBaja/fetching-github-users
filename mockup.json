@@ -1,0 +1,954 @@
+[
+	{
+		"id": "42274711387",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"repository_id": 860199130,
+			"push_id": 20414911515,
+			"size": 3,
+			"distinct_size": 3,
+			"ref": "refs/heads/master",
+			"head": "4cd747e0db3b0ef810307815f9dfe9864a234fbd",
+			"before": "fd6f26d283adadfb4b2e14999df7ace2b74bd2f0",
+			"commits": [
+				{
+					"sha": "66791fcce42255966d7928252cfd7620ab722cf9",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Corregido hurtBox muy grande",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/66791fcce42255966d7928252cfd7620ab722cf9"
+				},
+				{
+					"sha": "1d11619164a006eddc69dc0c550eaf76206fde57",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Añadido tutorial de controles y sistema de dialogo",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/1d11619164a006eddc69dc0c550eaf76206fde57"
+				},
+				{
+					"sha": "4cd747e0db3b0ef810307815f9dfe9864a234fbd",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Agregado cambio de transparencia",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/4cd747e0db3b0ef810307815f9dfe9864a234fbd"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-09-25T21:44:39Z"
+	},
+	{
+		"id": "42157625315",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"repository_id": 860199130,
+			"push_id": 20357186652,
+			"size": 1,
+			"distinct_size": 1,
+			"ref": "refs/heads/master",
+			"head": "fd6f26d283adadfb4b2e14999df7ace2b74bd2f0",
+			"before": "bceed4c4cce0333b8a175d4e2d7c6db8c630fc33",
+			"commits": [
+				{
+					"sha": "fd6f26d283adadfb4b2e14999df7ace2b74bd2f0",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Revert \"Refactorizado la clase powerUp y añadido un power up para curarse al juego\"\n\nThis reverts commit bceed4c4cce0333b8a175d4e2d7c6db8c630fc33.",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/fd6f26d283adadfb4b2e14999df7ace2b74bd2f0"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-09-22T21:52:03Z"
+	},
+	{
+		"id": "42157494329",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"repository_id": 860199130,
+			"push_id": 20357101756,
+			"size": 1,
+			"distinct_size": 1,
+			"ref": "refs/heads/master",
+			"head": "bceed4c4cce0333b8a175d4e2d7c6db8c630fc33",
+			"before": "f08c67eb497d76762eb1c819c4dc2a77a57626fb",
+			"commits": [
+				{
+					"sha": "bceed4c4cce0333b8a175d4e2d7c6db8c630fc33",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Refactorizado la clase powerUp y añadido un power up para curarse al juego",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/bceed4c4cce0333b8a175d4e2d7c6db8c630fc33"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-09-22T21:35:43Z"
+	},
+	{
+		"id": "42156332839",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"repository_id": 860199130,
+			"push_id": 20356322551,
+			"size": 6,
+			"distinct_size": 6,
+			"ref": "refs/heads/master",
+			"head": "f08c67eb497d76762eb1c819c4dc2a77a57626fb",
+			"before": "45ce7ca6bb4d75525b4dfb3d0ecc463a5d6f79e6",
+			"commits": [
+				{
+					"sha": "89118c9e849b0168e917d84ca6b6478b28cf2aa3",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Eliminado archivos de exportación a web",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/89118c9e849b0168e917d84ca6b6478b28cf2aa3"
+				},
+				{
+					"sha": "b77063f15156f2adaf7e6f0c59442192d2d8f9a3",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Añadido reduccion del tiempo de generación de enemigos al cambiar de oleada",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/b77063f15156f2adaf7e6f0c59442192d2d8f9a3"
+				},
+				{
+					"sha": "085bafc1a2130063af349a42582bd8ca5af3a0e2",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Añadido limite a la vida maxima del jugador",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/085bafc1a2130063af349a42582bd8ca5af3a0e2"
+				},
+				{
+					"sha": "71b56c3302842fba2c06bddb83272b5410d13d18",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Añadido un poco de transparencia a la barra de vida",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/71b56c3302842fba2c06bddb83272b5410d13d18"
+				},
+				{
+					"sha": "520dd980a03085f9ea858cd551127dca6f79737e",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Añadido aumento de la generación de enemigos al cambiar de oleada",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/520dd980a03085f9ea858cd551127dca6f79737e"
+				},
+				{
+					"sha": "f08c67eb497d76762eb1c819c4dc2a77a57626fb",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Corregido bug de la barra de vida: Se desplazaba al reiniciar la escena",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/f08c67eb497d76762eb1c819c4dc2a77a57626fb"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-09-22T19:21:37Z"
+	},
+	{
+		"id": "42155162323",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"repository_id": 860199130,
+			"push_id": 20355527080,
+			"size": 1,
+			"distinct_size": 1,
+			"ref": "refs/heads/master",
+			"head": "45ce7ca6bb4d75525b4dfb3d0ecc463a5d6f79e6",
+			"before": "365a4661410945b16bb5426d8bdc289e5b25b8b3",
+			"commits": [
+				{
+					"sha": "45ce7ca6bb4d75525b4dfb3d0ecc463a5d6f79e6",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Refactorizado código para ser más legíble",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/45ce7ca6bb4d75525b4dfb3d0ecc463a5d6f79e6"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-09-22T17:19:01Z"
+	},
+	{
+		"id": "42140245289",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"repository_id": 860199130,
+			"push_id": 20345650235,
+			"size": 5,
+			"distinct_size": 5,
+			"ref": "refs/heads/master",
+			"head": "365a4661410945b16bb5426d8bdc289e5b25b8b3",
+			"before": "2501531b4fa4ada07c052761143b04916a84ca85",
+			"commits": [
+				{
+					"sha": "af6b7f8f2535fd5a3b598a5ab13a226e5a232c7e",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Corregido error flushing queries",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/af6b7f8f2535fd5a3b598a5ab13a226e5a232c7e"
+				},
+				{
+					"sha": "126650e56696e9fe81cdfacce1f4fd1f1aeaa1fb",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Corregido error no se encontraba el nodo movement",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/126650e56696e9fe81cdfacce1f4fd1f1aeaa1fb"
+				},
+				{
+					"sha": "4d0cf2700ec374313114b7842a735423546bb7ed",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Cambiado ruta de la escena",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/4d0cf2700ec374313114b7842a735423546bb7ed"
+				},
+				{
+					"sha": "8373327548a0c22b2e21874577a0c5e5f4411bb5",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Agregado posición del jugador a las estadisticas del jugador",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/8373327548a0c22b2e21874577a0c5e5f4411bb5"
+				},
+				{
+					"sha": "365a4661410945b16bb5426d8bdc289e5b25b8b3",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Añadido settings.json al gitignore",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/365a4661410945b16bb5426d8bdc289e5b25b8b3"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-09-21T12:29:12Z"
+	},
+	{
+		"id": "42140192236",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"repository_id": 860199130,
+			"push_id": 20345612342,
+			"size": 1,
+			"distinct_size": 1,
+			"ref": "refs/heads/master",
+			"head": "2501531b4fa4ada07c052761143b04916a84ca85",
+			"before": "4b80d874900868d20583cff73c0757da76bf8b1f",
+			"commits": [
+				{
+					"sha": "2501531b4fa4ada07c052761143b04916a84ca85",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Refactorizado organización carpetas",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/2501531b4fa4ada07c052761143b04916a84ca85"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-09-21T12:24:03Z"
+	},
+	{
+		"id": "42140138075",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"repository_id": 860199130,
+			"push_id": 20345573683,
+			"size": 1,
+			"distinct_size": 1,
+			"ref": "refs/heads/master",
+			"head": "4b80d874900868d20583cff73c0757da76bf8b1f",
+			"before": "727852ad644d429c78d32eb662ef729a84c4ae78",
+			"commits": [
+				{
+					"sha": "4b80d874900868d20583cff73c0757da76bf8b1f",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Añadido nuevo enemigo que dispara lasers",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/4b80d874900868d20583cff73c0757da76bf8b1f"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-09-21T12:18:34Z"
+	},
+	{
+		"id": "42125443705",
+		"type": "DeleteEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"ref": "main",
+			"ref_type": "branch",
+			"pusher_type": "user"
+		},
+		"public": true,
+		"created_at": "2024-09-20T16:54:58Z"
+	},
+	{
+		"id": "42125443028",
+		"type": "CreateEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"ref": "master",
+			"ref_type": "branch",
+			"master_branch": "main",
+			"description": "Proyecto para mejorar en godot y divertirme un rato",
+			"pusher_type": "user"
+		},
+		"public": true,
+		"created_at": "2024-09-20T16:54:56Z"
+	},
+	{
+		"id": "42125432591",
+		"type": "DeleteEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"ref": "master",
+			"ref_type": "branch",
+			"pusher_type": "user"
+		},
+		"public": true,
+		"created_at": "2024-09-20T16:54:33Z"
+	},
+	{
+		"id": "42125409105",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"repository_id": 860199130,
+			"push_id": 20337168179,
+			"size": 2,
+			"distinct_size": 2,
+			"ref": "refs/heads/main",
+			"head": "727852ad644d429c78d32eb662ef729a84c4ae78",
+			"before": "cd536b3ab2c5bd07ea62a011efbce955cfb2b40b",
+			"commits": [
+				{
+					"sha": "518363da8fb0884874de08539d9a2f1227c076c7",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Inicializando proyecto",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/518363da8fb0884874de08539d9a2f1227c076c7"
+				},
+				{
+					"sha": "727852ad644d429c78d32eb662ef729a84c4ae78",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Corrigiendo error faltaba variable",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game/commits/727852ad644d429c78d32eb662ef729a84c4ae78"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-09-20T16:53:39Z"
+	},
+	{
+		"id": "42125041948",
+		"type": "CreateEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"ref": "master",
+			"ref_type": "branch",
+			"master_branch": "main",
+			"description": "Proyecto para mejorar en godot y divertirme un rato",
+			"pusher_type": "user"
+		},
+		"public": true,
+		"created_at": "2024-09-20T16:39:48Z"
+	},
+	{
+		"id": "42101597647",
+		"type": "CreateEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"ref": "main",
+			"ref_type": "branch",
+			"master_branch": "main",
+			"description": "Proyecto para mejorar en godot y divertirme un rato",
+			"pusher_type": "user"
+		},
+		"public": true,
+		"created_at": "2024-09-20T02:17:50Z"
+	},
+	{
+		"id": "42101597619",
+		"type": "CreateEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 860199130,
+			"name": "PeraBaja/Not-at-all-generic-ship-game",
+			"url": "https://api.github.com/repos/PeraBaja/Not-at-all-generic-ship-game"
+		},
+		"payload": {
+			"ref": null,
+			"ref_type": "repository",
+			"master_branch": "main",
+			"description": "Proyecto para mejorar en godot y divertirme un rato",
+			"pusher_type": "user"
+		},
+		"public": true,
+		"created_at": "2024-09-20T02:17:50Z"
+	},
+	{
+		"id": "41933526071",
+		"type": "WatchEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 857093379,
+			"name": "PeraBaja/juego-js",
+			"url": "https://api.github.com/repos/PeraBaja/juego-js"
+		},
+		"payload": {
+			"action": "started"
+		},
+		"public": true,
+		"created_at": "2024-09-14T20:25:00Z"
+	},
+	{
+		"id": "41919125027",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 857093379,
+			"name": "PeraBaja/juego-js",
+			"url": "https://api.github.com/repos/PeraBaja/juego-js"
+		},
+		"payload": {
+			"repository_id": 857093379,
+			"push_id": 20230834251,
+			"size": 5,
+			"distinct_size": 5,
+			"ref": "refs/heads/master",
+			"head": "67e46163b2604a0e8a33cac994e61647cc4bda1f",
+			"before": "20b81705ebae68bdbc7cfe678c6edf568d9d8676",
+			"commits": [
+				{
+					"sha": "eced6bbbaf329fbcec1412b2303f245dcf01fd5e",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Arreglado el player no se movía",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/juego-js/commits/eced6bbbaf329fbcec1412b2303f245dcf01fd5e"
+				},
+				{
+					"sha": "6e4772f43e5eb392f7086a8f3ec957a3b9799ce4",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "renombrado el archivo para más claridad",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/juego-js/commits/6e4772f43e5eb392f7086a8f3ec957a3b9799ce4"
+				},
+				{
+					"sha": "3fb3605b724763d5fedbd2fba859358de4f28a09",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "refactorizado lógica del jugador a otro archivo",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/juego-js/commits/3fb3605b724763d5fedbd2fba859358de4f28a09"
+				},
+				{
+					"sha": "309784f4a90d0da60b1b42d70fda2864f44933ef",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Añadido lógica de físicas",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/juego-js/commits/309784f4a90d0da60b1b42d70fda2864f44933ef"
+				},
+				{
+					"sha": "67e46163b2604a0e8a33cac994e61647cc4bda1f",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Añadido comprobación jugador esta en el suelo",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/juego-js/commits/67e46163b2604a0e8a33cac994e61647cc4bda1f"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-09-13T20:10:07Z"
+	},
+	{
+		"id": "41918434651",
+		"type": "CreateEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 857093379,
+			"name": "PeraBaja/juego-js",
+			"url": "https://api.github.com/repos/PeraBaja/juego-js"
+		},
+		"payload": {
+			"ref": "master",
+			"ref_type": "branch",
+			"master_branch": "master",
+			"description": null,
+			"pusher_type": "user"
+		},
+		"public": true,
+		"created_at": "2024-09-13T19:39:41Z"
+	},
+	{
+		"id": "41918433952",
+		"type": "CreateEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 857093379,
+			"name": "PeraBaja/juego-js",
+			"url": "https://api.github.com/repos/PeraBaja/juego-js"
+		},
+		"payload": {
+			"ref": null,
+			"ref_type": "repository",
+			"master_branch": "main",
+			"description": null,
+			"pusher_type": "user"
+		},
+		"public": true,
+		"created_at": "2024-09-13T19:39:40Z"
+	},
+	{
+		"id": "41524790244",
+		"type": "WatchEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 786418724,
+			"name": "PeraBaja/excel-python",
+			"url": "https://api.github.com/repos/PeraBaja/excel-python"
+		},
+		"payload": {
+			"action": "started"
+		},
+		"public": true,
+		"created_at": "2024-09-01T14:38:27Z"
+	},
+	{
+		"id": "41524789468",
+		"type": "WatchEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 786418724,
+			"name": "PeraBaja/excel-python",
+			"url": "https://api.github.com/repos/PeraBaja/excel-python"
+		},
+		"payload": {
+			"action": "started"
+		},
+		"public": true,
+		"created_at": "2024-09-01T14:38:22Z"
+	},
+	{
+		"id": "41524789033",
+		"type": "WatchEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 786418724,
+			"name": "PeraBaja/excel-python",
+			"url": "https://api.github.com/repos/PeraBaja/excel-python"
+		},
+		"payload": {
+			"action": "started"
+		},
+		"public": true,
+		"created_at": "2024-09-01T14:38:19Z"
+	},
+	{
+		"id": "41512888364",
+		"type": "PublicEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 832288665,
+			"name": "PeraBaja/To-do-list-con-node.js",
+			"url": "https://api.github.com/repos/PeraBaja/To-do-list-con-node.js"
+		},
+		"payload": {},
+		"public": true,
+		"created_at": "2024-08-31T14:29:25Z"
+	},
+	{
+		"id": "41512339752",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 832288665,
+			"name": "PeraBaja/To-do-list-con-node.js",
+			"url": "https://api.github.com/repos/PeraBaja/To-do-list-con-node.js"
+		},
+		"payload": {
+			"repository_id": 832288665,
+			"push_id": 20021708575,
+			"size": 1,
+			"distinct_size": 1,
+			"ref": "refs/heads/master",
+			"head": "377aac4979a133951c877a8f05808ae4c8197afe",
+			"before": "746c2bfd1f678d45db92a5ba09670b3543330d01",
+			"commits": [
+				{
+					"sha": "377aac4979a133951c877a8f05808ae4c8197afe",
+					"author": {
+						"email": "100232351+PeraBaja@users.noreply.github.com",
+						"name": "PeraBaja"
+					},
+					"message": "Actualizado readme.md",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/To-do-list-con-node.js/commits/377aac4979a133951c877a8f05808ae4c8197afe"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-08-31T13:31:20Z"
+	},
+	{
+		"id": "41396167342",
+		"type": "PushEvent",
+		"actor": {
+			"id": 100232351,
+			"login": "PeraBaja",
+			"display_login": "PeraBaja",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/PeraBaja",
+			"avatar_url": "https://avatars.githubusercontent.com/u/100232351?"
+		},
+		"repo": {
+			"id": 593618483,
+			"name": "PeraBaja/Tic-Tac-Toe-Vanilla-Js",
+			"url": "https://api.github.com/repos/PeraBaja/Tic-Tac-Toe-Vanilla-Js"
+		},
+		"payload": {
+			"repository_id": 593618483,
+			"push_id": 19962970208,
+			"size": 1,
+			"distinct_size": 1,
+			"ref": "refs/heads/master",
+			"head": "c85ac0bbdca81ca615bbb75a32d7d8d91f24c7af",
+			"before": "befedc0090e161d40d8ed98785191097264f1a87",
+			"commits": [
+				{
+					"sha": "c85ac0bbdca81ca615bbb75a32d7d8d91f24c7af",
+					"author": {
+						"email": "benjaminp158@gmail.com",
+						"name": "Benjamín Peralta"
+					},
+					"message": "Fix: Board doesn't reset correctly.",
+					"distinct": true,
+					"url": "https://api.github.com/repos/PeraBaja/Tic-Tac-Toe-Vanilla-Js/commits/c85ac0bbdca81ca615bbb75a32d7d8d91f24c7af"
+				}
+			]
+		},
+		"public": true,
+		"created_at": "2024-08-27T22:50:46Z"
+	}
+]
